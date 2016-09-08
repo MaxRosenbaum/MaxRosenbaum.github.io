@@ -3,8 +3,8 @@
 <body>
 <body topmargin="50">
 <body leftmargin="50">
-<h1> Lehigh</h1>
-<h2> Max Rosenbaum</h2>
-<img glass= "pretty" src=colleges.png style="width: 75%">
+<h1> Lehigh Colleges</h1>
+<h2>Max Rosenbaum</h2>
+<img class="pretty" src=Colleges.png style="width: 75%"> 
 </body>
 </html>
